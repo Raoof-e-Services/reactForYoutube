@@ -1,7 +1,5 @@
 body{
     background-color:lightblue;
-    display: flex;
-    justify-content: space-around;
 }
 .card {
     /* Add shadows to create the "card" effect */
@@ -10,7 +8,9 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: aliceblue;
     border-radius: 5px;
-    /* width:50vw; */
+    width:40vw;
+    margin-left:10%;
+    margin-bottom:10%;
 
   }
   
